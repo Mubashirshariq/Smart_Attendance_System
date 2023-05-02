@@ -1,12 +1,12 @@
-# Smart Attendance System(https://smart-attendance-y43y.onrender.com)
+# [Smart Attendance System](https://https://smart-attendance-y43y.onrender.com)
 
 Smart_Attendance_System is a web application developed using Flask framework that provides a platform for taking attendance in schools offices and colleges.
 ## Features
 
 - User can be added to the database 
 - Attendance of users is taken using openCv
-- ML model is trained on the images taken while adding the user
-- U
+- ML model is trained on the images taken while adding  a new user
+
 
 
 ## Technologies Used
