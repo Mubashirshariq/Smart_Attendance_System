@@ -1,4 +1,4 @@
-# [Smart Attendance System](https://https://smart-attendance-y43y.onrender.com)
+# [Smart Attendance System](https://smart-attendance-y43y.onrender.com)
 
 Smart_Attendance_System is a web application developed using Flask framework that provides a platform for taking attendance in schools offices and colleges.
 ## Features
