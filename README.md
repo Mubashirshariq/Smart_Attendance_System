@@ -36,7 +36,7 @@ To use the application, navigate to `http://127.0.0.1:5000/` in your web browser
 - To view  attendance of the day, User need to  scroll down the homepage.
 
 
-## Contributing
+## Contributions
 
   I welcome contributions from anyone.
 
